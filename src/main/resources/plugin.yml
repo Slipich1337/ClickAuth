@@ -1,0 +1,8 @@
+name: ClickAuth
+version: '${project.version}'
+main: me.clickism.clickauth.ClickAuth
+api-version: '1.20'
+authors: [Clickism]
+commands:
+  resetpassword:
+    description: Reset your authentication password
